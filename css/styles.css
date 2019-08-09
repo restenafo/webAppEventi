@@ -1,0 +1,24 @@
+﻿body {
+    background-color:#DDDDDD;
+}
+
+.distanziaDallAlto {
+    margin-top:100px;
+}
+
+#TXTusername, #TXTpassword {
+    margin-bottom:15px;
+}
+
+#BTNlogin, #BTNreset {
+    width:50%;
+    margin:5px;
+}
+
+@media screen and (min-width: 1024px) {
+ .card img{
+    max-height:208px;
+}
+
+}
+
